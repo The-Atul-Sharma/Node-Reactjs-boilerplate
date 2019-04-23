@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component app ui changes 1`] = `
+<div>
+  <h1>
+    React Boilerplate
+  </h1>
+  <p>
+    Start coding!
+  </p>
+</div>
+`;
